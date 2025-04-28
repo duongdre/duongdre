@@ -10,7 +10,7 @@ Hey. I'm Duong Nguyen (Dre)
 ### Expertise 🌏
 - Software
 - Mobile App Development
-- Flutter / Solidity / Kotlin
+- **Flutter** / Solidity / Kotlin
 
 ### Reach me at 📩: 
 - Gmail: dev.duong.nguyenanh@gmail.com
